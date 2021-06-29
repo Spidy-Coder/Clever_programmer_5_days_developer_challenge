@@ -1,3 +1,4 @@
-## Screenshots
+# Tech skills used:-
 
-<img src="starbucks_landing_page/screenshots/Screenshot (22).png"></img>
+1. HTML 5
+2. CSS 3
